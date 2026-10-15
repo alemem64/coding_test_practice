@@ -1,0 +1,19 @@
+{
+  "pypy-3.7.13-darwin-x86_64-none": {
+    "name": "pypy",
+    "arch": {
+      "family": "x86_64",
+      "variant": null
+    },
+    "os": "darwin",
+    "libc": "none",
+    "major": 3,
+    "minor": 7,
+    "patch": 13,
+    "prerelease": "",
+    "url": "https://downloads.python.org/pypy/pypy3.7-v7.3.9-osx64.tar.bz2",
+    "sha256": "12d92f578a200d50959e55074b20f29f93c538943e9a6e6522df1a1cc9cef542",
+    "variant": null,
+    "build": "7.3.9"
+  }
+}

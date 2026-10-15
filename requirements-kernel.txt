@@ -1,0 +1,4 @@
+# Python 3.7-compatible Jupyter kernel.
+ipykernel==6.16.2
+# Newer psutil uses C APIs missing from PyPy 7.3.9.
+psutil==5.9.8
